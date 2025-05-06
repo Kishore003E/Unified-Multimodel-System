@@ -67,3 +67,12 @@ streamlit run UI.py
 
 ## Contributing 🤝
 We welcome contributions! If you'd like to contribute to the project, feel free to open an issue or submit a pull request. Make sure to fork the repo and follow the contributing guidelines.
+
+## 📬 Connect with Me
+If you like this project or want to collaborate, feel free to reach out!
+
+📧 Email: kicha2003e@gmail.com
+
+💼 LinkedIn: [Join my network](www.linkedin.com/in/kishore-thedeveloper)
+
+🐙 GitHub: [Profile Link](https://github.com/Kishore003E)
